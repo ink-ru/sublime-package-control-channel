@@ -18,7 +18,7 @@
                         "platforms": [
                             "*"
                         ],
-                        "sublime_text": ">=3000",
+                        "sublime_text": ">=2000",
                         "url": "https://codeload.github.com/ink-ru/sublime-triks/zip/master",
                         "version": "1.2.1"
                     }
