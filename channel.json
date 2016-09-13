@@ -24,6 +24,31 @@
                     }
                 ]
             }
+        ],
+        "https://github.com/ink-ru/sublime-snippets": [
+            {
+                "author": "george.a.wise@gmail.com",
+                "buy": null,
+                "description": "A collection of usefull Sublime Text 3 snippets",
+                "donate": null,
+                "homepage": "https://github.com/ink-ru/sublime-snippets",
+                "issues": "https://github.com/ink-ru/sublime-snippets/issues",
+                "labels": [],
+                "name": "SeoSnippets",
+                "previous_names": [],
+                "readme": "https://github.com/ink-ru/sublime-snippets/blob/master/README.md",
+                "releases": [
+                    {
+                        "date": "2016-09-12 10:00:00",
+                        "platforms": [
+                            "*"
+                        ],
+                        "sublime_text": ">=3000",
+                        "url": "https://codeload.github.com/ink-ru/sublime-snippets/zip/master",
+                        "version": "1.0.0"
+                    }
+                ]
+            }
         ]
     },
     "repositories": [
