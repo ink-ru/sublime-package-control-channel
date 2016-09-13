@@ -27,7 +27,8 @@
         ]
     },
     "repositories": [
-        "https://github.com/ink-ru/sublime-triks"
+        "https://github.com/ink-ru/sublime-triks",
+        "https://github.com/ink-ru/sublime-snippets"
     ],
     "schema_version": "3.0.0"
 }
